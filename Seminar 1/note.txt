@@ -1,0 +1,5 @@
+To start the task
+step 1: cd(where your file is)
+step 2: javac Namnet på filen.java
+Step 3: java -cp . namnet på filen
+step 4(för RecursiveInsertionSort): java -Xss512m RecursiveInsertionSort
